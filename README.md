@@ -1,1 +1,1 @@
-# Implementation_of_SDES_and_RSA
+# Implementation of SDES and RSA
